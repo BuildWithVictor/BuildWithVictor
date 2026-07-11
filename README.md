@@ -1,16 +1,46 @@
-## Hi there 👋
+# Hi 👋 I'm Victor
 
-<!--
-**BuildWithVictor/BuildWithVictor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Software Engineering Student
 
-Here are some ideas to get you started:
+💻 Building AI-powered web applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌍 Learning in public, one project at a time.
+
+---
+
+## 🛠 Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+
+(Currently learning React and AI Development.)
+
+---
+
+## 🎯 Current Goal
+
+Become a professional AI Web Developer and build software that solves real-world problems.
+
+---
+
+## 📈 2026 Goals
+
+- Build 20+ real projects
+- Master React
+- Learn AI APIs
+- Get my first freelance client
+- Grow my developer brand
+
+---
+
+## 📫 Connect With Me
+
+📺 YouTube: BuildWithVictor
+
+💻 GitHub: BuildWithVictor
+
+---
+
+> Learn. Build. Ship.
